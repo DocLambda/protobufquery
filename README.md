@@ -1,3 +1,5 @@
+**:warning: This repository is moved to https://github.com/srebhan/protobufquery for better maintenance! :warning:**
+
 protobufquery
 <!-- ==== -->
 <!-- [![Build Status](https://travis-ci.org/antchfx/protobufquery.svg?branch=master)](https://travis-ci.org/antchfx/protobufquery)
